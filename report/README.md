@@ -1,1 +1,2 @@
-This folder contains the final PDF report of the Cyclistic Bike-Share case study.
+This folder contains the final report for the Cyclistic Bike-Share Case Study,
+including the analysis, insights, and business recommendations.
