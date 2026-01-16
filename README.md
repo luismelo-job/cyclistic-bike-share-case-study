@@ -1,58 +1,54 @@
-# Cyclistic Bike-Share Case Study 🚲📊
+# Cyclistic Bike-Share Case Study
 
-This project analyzes usage patterns of Cyclistic’s bike-share service to understand the behavioral differences between casual riders and annual members, with the goal of supporting data-driven marketing strategies to increase annual memberships.
-
----
-
-## 📌 Business Problem
-Cyclistic wants to convert more casual riders into annual members.  
-Understanding how these two user groups differ in their riding behavior is key to designing effective marketing actions.
+## Project Overview
+This project is a data analysis case study developed as part of the Google Data Analytics Professional Certificate.
+The objective is to analyze usage patterns of Cyclistic’s bike-share service and provide data-driven
+recommendations to convert casual riders into annual members.
 
 ---
 
-## 🎯 Objective
-Identify usage patterns between casual riders and annual members and provide actionable recommendations to increase annual memberships.
+## Business Task
+Identify behavioral differences between casual riders and annual members in order to support
+marketing strategies aimed at increasing membership conversion.
 
 ---
 
-## 🧠 Methodology
-This analysis follows the **Google Data Analytics framework**:
-**Ask → Prepare → Process → Analyze → Share → Act**
-
-- Data cleaning and preparation
-- Exploratory data analysis
-- Data visualization
-- Insight generation and recommendations
+## Dataset
+- Public dataset provided by Cyclistic
+- 12 months of bike-share trip data
+- Data includes ride duration, user type, timestamps, and trip characteristics
 
 ---
 
-## 📊 Key Insights
-- Casual riders use bikes mainly on weekends, while members ride more consistently during weekdays.
-- Casual users have longer average ride durations.
-- Seasonal patterns show higher casual usage during summer months.
+## Tools Used
+- SQL (Google BigQuery)
+- Google Sheets (data visualization)
+- GitHub (project documentation and version control)
 
 ---
 
-## 💡 Recommendations
-- Launch weekend and seasonal membership promotions targeting casual riders.
-- Design campaigns focused on leisure and tourism during peak months.
-- Offer trial or short-term membership plans to encourage conversion.
+## Analysis Process
+1. Data cleaning and preparation using SQL
+2. Exploratory data analysis to identify usage patterns
+3. Aggregation of insights for visualization
+4. Business-oriented interpretation and recommendations
 
 ---
 
-## 🛠 Tools & Technologies
-- R
-- SQL
-- Data Visualization
-- Google Data Analytics methodology
+## Key Insights
+- Casual riders tend to take longer rides than annual members
+- Casual usage peaks on weekends, suggesting leisure-oriented behavior
+- Annual members show more consistent usage throughout the week
 
 ---
 
-## 📄 Final Report
-The complete analysis and visualizations are available in the PDF report:
-👉 [View full report](./Cyclistic_Bike_Share_Case_Study.pdf)
+## Files and Structure
+- `/sql` — SQL queries used for data cleaning and analysis
+- `/visualization` — Documentation of visualization process
+- `/report` — Final case study report
 
 ---
 
-## 📂 Dataset
-Public dataset provided by Motivate International Inc. (used for educational purposes).
+## Final Recommendations
+Marketing efforts should focus on converting casual riders by promoting annual memberships
+through weekend campaigns, leisure-oriented benefits, and pricing incentives based on usage behavior.
